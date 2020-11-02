@@ -38,7 +38,6 @@
 <a href="https://github.com/PinguExtremo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PinguExtremo&theme=dark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinguExtremo&theme=dark&layout=compact" />
-  ![](https://komarev.com/ghpvc/?username=PinguExtremo)
-</a>
-
 <br/>
+  
+    ![](https://komarev.com/ghpvc/?username=PinguExtremo&label=Visitas)
