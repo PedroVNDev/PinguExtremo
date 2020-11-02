@@ -1,5 +1,6 @@
 
-
+ ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=PinguExtremo.visitor-badge)
+ 
 <h2>Pedro Vicente Navas</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mi </h3>
@@ -40,4 +41,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinguExtremo&theme=dark&layout=compact" />
 <br/>
   
-    ![](https://komarev.com/ghpvc/?username=PinguExtremo&label=Visitas)
+  
