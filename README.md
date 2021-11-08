@@ -5,8 +5,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mi </h3>
 
-- 🤔 &nbsp; 20 Años
-- 🎓 &nbsp; Estudiando el Grado Superior de Aplicaciones Multiplataforma
+- 🤔 &nbsp; 21 Años
+- 🎓 &nbsp; Estudiando Ingenieria Informática
 - 🎮 &nbsp; Aficionado a los Videojuegos y la Tecnología
 
 <h3> 🛠 &nbsp;Habilidades</h3>
