@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 &nbsp;Sobre mi </h3>
 
 - 🤔 &nbsp; 21 Años
-- 🎓 &nbsp; Estudiando Ingenieria Informática
+- 🎓 &nbsp; Estudiando Ingeniería Informática
 - 🎮 &nbsp; Aficionado a los Videojuegos y la Tecnología
 
 <h3> 🛠 &nbsp;Habilidades</h3>
